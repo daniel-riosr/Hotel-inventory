@@ -1,0 +1,14 @@
+_______________
+
+ **SUPUESTOS**
+_______________
+
+_ Se asume que las habitaciones pueden tener tres tipos: "A", "B", o "C", siendo A la grande, B la mediana y C la pequeña.
+_ Se asume que el usuario ingresará números enteros para la cantidad de habitaciones y responderá con "si" o "no" cuando se 
+  le pregunte si desea modificar el estado de una habitación.
+_ Se asume que el tipo y el número de la habitación proporcionados por el usuario coincidirán con una habitación existente en 
+  el inventario.
+_ Se asume que las habitaciones cuyo estado sea true se consideran disponibles y las habitaciones cuyo estado sea false se
+  consideran ocupadas.
+_ Se asume que cuando el usuario elige salir (exitResponse es igual a "si"), el programa finaliza. Esto implica que el usuario 
+  no desea realizar más operaciones en el inventario de habitaciones y desea cerrar la aplicación.

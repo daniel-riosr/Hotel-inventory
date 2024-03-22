@@ -1,0 +1,11 @@
+Person\RegisterCustomer.class
+com\mycompany\roominventory\Towel.class
+com\mycompany\roominventory\BedSheet.class
+com\mycompany\roominventory\Room.class
+com\mycompany\roominventory\InventoryItem.class
+Person\Customer.class
+com\mycompany\roominventory\Couch.class
+com\mycompany\roominventory\RoomInventory.class
+com\mycompany\roominventory\Television.class
+com\mycompany\roominventory\ManageInventory.class
+com\mycompany\roominventory\RoomType.class
